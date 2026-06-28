@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / web build
+node_modules/
+dist/
+
+# Editor / OS / tooling
+.DS_Store
+*.log
+.claude/
+
+# TS build info
+*.tsbuildinfo
